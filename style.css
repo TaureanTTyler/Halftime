@@ -1,0 +1,16 @@
+@import url(bootstrap.css);
+
+body {
+   background-color:red;
+   border:groove;
+}
+
+h1 {
+  color:white;
+}
+
+p {
+ color:blue;
+
+}
+
